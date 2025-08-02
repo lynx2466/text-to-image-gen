@@ -4,7 +4,7 @@ This project generates AI images from text prompts using the Stable Diffusion mo
 
 ~ A Google Colab notebook (ai_text_to_image_gen.ipynb)
 
-~ A Gradio app (main.py) for running locally in VS Code
+~ A Gradio app (ai_text_to_image_gen.py) for running locally in VS Code
 
 * Features
 Text-to-image generation with Hugging Face Diffusers
